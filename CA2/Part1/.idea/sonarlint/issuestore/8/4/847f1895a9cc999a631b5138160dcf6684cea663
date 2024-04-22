@@ -1,0 +1,11 @@
+
+>
+java:S1604<"(Make this anonymous inner class a lambda(ÎÌ·İ
+_
+java:S2095O"DUse try-with-resources or close this "Socket" in a "finally" clause.(Ä¡şüÿÿÿÿ
+l
+java:S1450!"QRemove the "in" field and declare it as a local variable in the relevant methods.(Ó‘š„ûÿÿÿÿ
+_
+java:S32528"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´
+E
+java:S2093N"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
